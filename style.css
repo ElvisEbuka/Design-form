@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+.design-container{
+    border: 1px solid lightsalmon;
+    height: 550px;
+    width: 300px;
+}
+.image-container{
+    margin: 10px;
+    
+}
+input[type=text]{
+    border: none;
+    border-bottom: 4px solid lightsalmon;
+}
+
+input[type=email]{
+    border: none;
+    border-bottom: 4px solid lightsalmon;
+}
+
+input[type=password]{
+    border: none;
+    border-bottom: 2px solid lightsalmon;
+}
+.image-content{
+    width: 280px;
+    height: 200px;
+}
+
+.form-container{
+    margin: 30px;
+}
+
+.text-container{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+}
+
+.p-one{
+    background-color: lightsalmon;
+    border-radius: 2px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+    padding: 10px;
+}
